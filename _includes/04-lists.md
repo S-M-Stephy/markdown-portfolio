@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+<ol>
+:heart:
+:+1:
+:smile:
+:sparkles:
+:tada:
+</ol>
